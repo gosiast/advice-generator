@@ -544,6 +544,15 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
+.bg-green-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 101 52 / var(--tw-bg-opacity));
+}
+
 .bg-red-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(220 38 38 / var(--tw-bg-opacity));
